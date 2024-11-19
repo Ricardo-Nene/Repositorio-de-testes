@@ -10,6 +10,6 @@
 
 4. Criar uma nova Branch [ x ] vida loka só pra ter mais alteração_e_ depois_mais_uma
 
-5. realizar um Pull Request e Merge
+5. realizar um Pull Request e Merge versao_02 [ x ]
 
 7. Criar nosso primeiro Fork
