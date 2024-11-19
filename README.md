@@ -8,7 +8,7 @@
 
 3. fazer alterações >> Adicionar  - Commitar - Enviar arquivos [ x ]
 
-4. Criar uma nova Branch [ x ] vida loka só pra ter mais alteração_
+4. Criar uma nova Branch [ x ] vida loka só pra ter mais alteração_e_ depois_mais_uma
 
 5. realizar um Pull Request e Merge
 
